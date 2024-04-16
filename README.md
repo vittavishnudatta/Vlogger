@@ -4,14 +4,8 @@
 <img width="743" alt="image" src="https://github.com/zhuangshaobin/Vlogger/assets/24236723/2885982e-5b18-48b3-97b1-966298329350">
 </a>
 
-[Shaobin Zhuang](https://github.com/zhuangshaobin), [Kunchang Li](https://scholar.google.com/citations?user=D4tLSbsAAAAJ), [Xinyuan Chen†](https://scholar.google.com/citations?user=3fWSC8YAAAAJ), [Yaohui Wang†](https://scholar.google.com/citations?user=R7LyAb4AAAAJ), [Ziwei Liu](https://scholar.google.com/citations?user=lc45xlcAAAAJ), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl), [Yali Wang†](https://scholar.google.com/citations?user=hD948dkAAAAJ)
+[Vitta Vishnu Datta](https://github.com/vittavishnudatta), [Babburi Maneesha](https://github.com/maneesha-006)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2401.09414-b31b1b.svg)](https://arxiv.org/abs/2401.09414)
-[![Project Page](https://img.shields.io/badge/Vlogger-Website-green)](https://zhuangshaobin.github.io/Vlogger.github.io/)
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/GrayShine/Vlogger)
-[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/GrayShine/Vlogger-ShowMaker)
-[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/ZRD1-jHbEGk)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhuangshaobin%2FVlogger&count_bg=%23F59352&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 </div>
 
@@ -304,42 +298,10 @@ For example:
 
 </table>
 
-## BibTeX
-```bibtex
-@article{zhuang2024vlogger,
-title={Vlogger: Make Your Dream A Vlog},
-author={Zhuang, Shaobin and Li, Kunchang and Chen, Xinyuan and Wang, Yaohui and Liu, Ziwei and Qiao, Yu and Wang, Yali},
-journal={arXiv preprint arXiv:2401.09414},
-year={2024}
-}
-```
-
-```bibtex
-@article{chen2023seine,
-title={SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction},
-author={Chen, Xinyuan and Wang, Yaohui and Zhang, Lingjun and Zhuang, Shaobin and Ma, Xin and Yu, Jiashuo and Wang, Yali and Lin, Dahua and Qiao, Yu and Liu, Ziwei},
-journal={arXiv preprint arXiv:2310.20700},
-year={2023}
-}
-```
-
-```bibtex
-@article{wang2023lavie,
-  title={LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models},
-  author={Wang, Yaohui and Chen, Xinyuan and Ma, Xin and Zhou, Shangchen and Huang, Ziqi and Wang, Yi and Yang, Ceyuan and He, Yinan and Yu, Jiashuo and Yang, Peiqing and others},
-  journal={arXiv preprint arXiv:2309.15103},
-  year={2023}
-}
-```
-
 
 ## Disclaimer
 We disclaim responsibility for user-generated content. The model was not trained to realistically represent people or events, so using it to generate such content is beyond the model's capabilities. It is prohibited for pornographic, violent and bloody content generation, and to generate content that is demeaning or harmful to people or their environment, culture, religion, etc. Users are solely liable for their actions. The project contributors are not legally affiliated with, nor accountable for users' behaviors. Use the generative model responsibly, adhering to ethical and legal standards.
 
-## Contact Us
-**Shaobin Zhuang**: [zhuangshaobin@pjlab.org.cn](mailto:zhuangshaobin@pjlab.org.cn), **Kunchang Li**: [likunchang@pjlab.org.cn](mailto:likunchang@pjlab.org.cn)
-
-**Xinyuan Chen**: [chenxinyuan@pjlab.org.cn](mailto:chenxinyuan@pjlab.org.cn), **Yaohui Wang**: [wangyaohui@pjlab.org.cn](mailto:wangyaohui@pjlab.org.cn)  
 
 ## Acknowledgements
 The code is built upon [SEINE](https://github.com/Vchitect/SEINE), [LaVie](https://github.com/Vchitect/LaVie), [diffusers](https://github.com/huggingface/diffusers) and [Stable Diffusion](https://github.com/CompVis/stable-diffusion), we thank all the contributors for open-sourcing. 
@@ -347,5 +309,5 @@ The code is built upon [SEINE](https://github.com/Vchitect/SEINE), [LaVie](https
 
 ## License
 
-The code is licensed under Apache-2.0, model weights are fully open for academic research and also allow **free** commercial usage. To apply for a commercial license, please contact zhuangshaobin@pjlab.org.cn.
+The code is licensed under Apache-2.0, model weights are fully open for academic research and also allow **free** commercial usage. To apply for a commercial license, please contact vittavishnudatta2259@gmail.com.
 
