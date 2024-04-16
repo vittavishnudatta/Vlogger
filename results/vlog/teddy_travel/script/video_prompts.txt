@@ -1,0 +1,94 @@
+[
+{
+    "video fragment id": 1,
+    "video fragment description": "Teddy bear in a kid's room."
+},
+{
+    "video fragment id": 2,
+    "video fragment description": "Teddy bear is dreaming."
+},
+{
+    "video fragment id": 3,
+    "video fragment description": "Dreams of travels."
+},
+{
+    "video fragment id": 4,
+    "video fragment description": "Teddy in an airport."
+},
+{
+    "video fragment id": 5,
+    "video fragment description": "Teddy peering from a backpack."
+},
+{
+    "video fragment id": 6,
+    "video fragment description": "Teddy on a picnic blanket."
+},
+{
+    "video fragment id": 7,
+    "video fragment description": "Eiffel Tower in the background."
+},
+{
+    "video fragment id": 8,
+    "video fragment description": "Teddy enjoys Parisian picnic."
+},
+{
+    "video fragment id": 9,
+    "video fragment description": "Croissants around Teddy."
+},
+{
+    "video fragment id": 10,
+    "video fragment description": "Teddy atop the Great Wall."
+},
+{
+    "video fragment id": 11,
+    "video fragment description": "Teddy admiring the view."
+},
+{
+    "video fragment id": 12,
+    "video fragment description": "Teddy exploring pyramids in Egypt."
+},
+{
+    "video fragment id": 13,
+    "video fragment description": "Under the hot Egyptian sun."
+},
+{
+    "video fragment id": 14,
+    "video fragment description": "Teddy finds a treasure chest."
+},
+{
+    "video fragment id": 15,
+    "video fragment description": "Treasure chest inside a pyramid."
+},
+{
+    "video fragment id": 16,
+    "video fragment description": "Teddy back in the bedroom."
+},
+{
+    "video fragment id": 17,
+    "video fragment description": "Sharing travel tales."
+},
+{
+    "video fragment id": 18,
+    "video fragment description": "A little girl reacts."
+},
+{
+    "video fragment id": 19,
+    "video fragment description": "Amazed by Teddy's stories."
+},
+{
+    "video fragment id": 20,
+    "video fragment description": "Room filled with souvenirs."
+},
+{
+    "video fragment id": 21,
+    "video fragment description": "Souvenirs from Teddy's trip."
+},
+{
+    "video fragment id": 22,
+    "video fragment description": "Teddy gazing at a world map."
+},
+{
+    "video fragment id": 23,
+    "video fragment description": "Dreaming of the next adventure."
+}
+]
